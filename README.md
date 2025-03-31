@@ -158,9 +158,14 @@
 ```
 .
 ├── config.json     # 配置文件
-├── index.html      # 主页面模板
 └── main.go         # 主程序
 ```
+
+## 自动部署说明
+
+将本项目fork到你的仓库，修改`config.json`，push即可
+
+每次push都会自动更新github pages
 
 ## 效果展示
 
