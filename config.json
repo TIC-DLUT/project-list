@@ -1,0 +1,66 @@
+{
+  "copyright": "© 2024 创新技术研究团队. All rights reserved.",
+  "organization": {
+    "name": "创新技术研究团队",
+    "description": "致力于探索和实践前沿技术的学生研究团队",
+    "link": "https://github.com/example/tech-team",
+    "logo": "https://www.baidu.com/img/flexible/logo/pc/peak-result.png"
+  },
+  "announcements": [
+    {
+      "title": "2024年第一季度工作计划",
+      "content": "我们将在第一季度重点关注项目进度跟踪和技术创新",
+      "date": "2024-01-15"
+    },
+    {
+      "title": "新成员招募",
+      "content": "欢迎对技术感兴趣的同学加入我们的团队",
+      "date": "2024-01-10"
+    }
+  ],
+  "meetings": [
+    {
+      "date": "2024-01-20",
+      "time": "14:00-16:00",
+      "location": "图书馆会议室A",
+      "topic": "项目进度汇报与技术分享"
+    },
+    {
+      "date": "2024-02-05",
+      "time": "15:00-17:00",
+      "location": "线上会议",
+      "topic": "代码评审与最佳实践讨论"
+    }
+  ],
+  "projects": {
+    "例会项目": [
+      {
+        "name": "技术分享平台",
+        "description": "用于团队内部技术知识分享和学习的平台",
+        "link": "https://github.com/example/tech-sharing"
+      },
+      {
+        "name": "项目管理系统",
+        "description": "团队项目进度追踪和任务分配系统",
+        "link": "https://github.com/example/project-management"
+      },
+      {
+        "name": "ces",
+        "description": "123",
+        "link": "dasds"
+      }
+    ],
+    "比赛项目": [
+      {
+        "name": "智能算法竞赛",
+        "description": "基于机器学习的图像识别系统",
+        "link": "https://github.com/example/ml-competition"
+      },
+      {
+        "name": "创新应用大赛",
+        "description": "基于区块链的供应链追踪系统",
+        "link": "https://github.com/example/blockchain-tracking"
+      }
+    ]
+  }
+}
