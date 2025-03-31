@@ -23,9 +23,6 @@ jobs:
         run: go run main.go
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./
-          publish_branch: gh-pages
-          exclude_assets: '**/*.go,**/*.json,**/*.md,.github/**'
+          folder: build

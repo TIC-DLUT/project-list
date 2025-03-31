@@ -302,8 +302,10 @@ func main() {
 		log.Fatal("Error parsing template:", err)
 	}
 
+	os.Mkdir("build", os.ModePerm)
+
 	// 创建输出文件
-	outputFile, err := os.Create("index.html")
+	outputFile, err := os.Create("build/index.html")
 	if err != nil {
 		log.Fatal("Error creating output file:", err)
 	}
