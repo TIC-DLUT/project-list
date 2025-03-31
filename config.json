@@ -1,65 +1,44 @@
 {
-  "copyright": "© 2024 创新技术研究团队. All rights reserved.",
+  "copyright": "© 2025 大连理工大学腾讯高校创新俱乐部. All rights reserved.",
   "organization": {
-    "name": "创新技术研究团队",
-    "description": "致力于探索和实践前沿技术的学生研究团队",
-    "link": "https://github.com/example/tech-team",
-    "logo": "https://www.baidu.com/img/flexible/logo/pc/peak-result.png"
+    "name": "大连理工大学腾讯高校创新俱乐部",
+    "description": "TIC是大连理工大学开发区校区创中下的腾讯组，致力于软件开发，组里涉及到的学习方向包括但不限于前端、后端、人工智能等等",
+    "link": "https://github.com/TIC-DLUT",
+    "logo": "tic.jpg"
   },
   "announcements": [
     {
-      "title": "2024年第一季度工作计划",
-      "content": "我们将在第一季度重点关注项目进度跟踪和技术创新",
-      "date": "2024-01-15"
-    },
-    {
-      "title": "新成员招募",
-      "content": "欢迎对技术感兴趣的同学加入我们的团队",
-      "date": "2024-01-10"
+      "title": "该网页上线",
+      "content": "更多内容正在到来...祝大家生活开心！",
+      "date": "2025-03-31"
     }
   ],
   "meetings": [
     {
-      "date": "2024-01-20",
-      "time": "14:00-16:00",
-      "location": "图书馆会议室A",
-      "topic": "项目进度汇报与技术分享"
-    },
-    {
-      "date": "2024-02-05",
-      "time": "15:00-17:00",
-      "location": "线上会议",
-      "topic": "代码评审与最佳实践讨论"
+      "date": "未定",
+      "time": "未定",
+      "location": "清明节回来再说吧咕咕咕",
+      "topic": "例会项目前端部分"
     }
   ],
   "projects": {
     "例会项目": [
       {
-        "name": "技术分享平台",
-        "description": "用于团队内部技术知识分享和学习的平台",
-        "link": "https://github.com/example/tech-sharing"
+        "name": "2025年春季例会项目前端部分",
+        "description": "一个简易ai聊天应用的前端部分",
+        "link": "https://github.com/TIC-DLUT/2025_Spring"
       },
       {
-        "name": "项目管理系统",
-        "description": "团队项目进度追踪和任务分配系统",
-        "link": "https://github.com/example/project-management"
-      },
-      {
-        "name": "ces",
-        "description": "123",
-        "link": "dasds"
+        "name": "2025年春季例会项目后端部分",
+        "description": "一个简易ai聊天应用的后端部分",
+        "link": "https://github.com/TIC-DLUT/2025_spring_backend"
       }
     ],
-    "比赛项目": [
+    "开源项目": [
       {
-        "name": "智能算法竞赛",
-        "description": "基于机器学习的图像识别系统",
-        "link": "https://github.com/example/ml-competition"
-      },
-      {
-        "name": "创新应用大赛",
-        "description": "基于区块链的供应链追踪系统",
-        "link": "https://github.com/example/blockchain-tracking"
+        "name": "项目主页生成器（本页面的生成工具）",
+        "description": " 根据config.json一键式生成包含组织简介、公告、例会安排、项目列表的单个网页，并自动部署到github pages上",
+        "link": "https://github.com/TIC-DLUT/project-list"
       }
     ]
   }
