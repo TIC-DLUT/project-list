@@ -8,9 +8,9 @@
   },
   "announcements": [
     {
-        "title": "2025中国高校计算机大赛AIGC创新赛",
-        "content": "该比赛正在组队中！！！有好的idea的同学尽快联系组内学长！！，比赛详情：https://aigc.vivo.com.cn/",
-        "date": "2025-03-31"
+      "title": "2025中国高校计算机大赛AIGC创新赛",
+      "content": "该比赛正在组队中！！！有好的idea的同学尽快联系组内学长！！，比赛详情：https://aigc.vivo.com.cn/",
+      "date": "2025-03-31"
     },
     {
       "title": "该网页上线",
@@ -20,9 +20,9 @@
   ],
   "meetings": [
     {
-      "date": "未定",
-      "time": "未定",
-      "location": "清明节回来再说吧咕咕咕",
+      "date": "2025.04.13",
+      "time": "14:30-16:30",
+      "location": "教学区B103",
       "topic": "例会项目前端部分"
     }
   ],
