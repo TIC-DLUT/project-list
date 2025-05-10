@@ -9,7 +9,7 @@
   "announcements": [
     {
       "title": "2025中国高校计算机大赛AIGC创新赛",
-      "content": "该比赛正在组队中！！！有好的idea的同学尽快联系组内学长！！，比赛详情：https://aigc.vivo.com.cn/",
+      "content": "该比赛正在组队中！！！有好的idea的同学尽快联系组内学长！！，比赛详情：https://aigc.vivo.com.cn/，vivo ai能力调用sdk（golang）：https://github.com/dingdinglz/vivo",
       "date": "2025-03-31"
     },
     {
@@ -24,6 +24,12 @@
       "time": "14:30-16:30",
       "location": "教学区B103",
       "topic": "例会项目前端部分"
+    },
+    {
+      "date": "2025.04.19",
+      "time": "14:30-16:30",
+      "location": "教学区B101",
+      "topic": "例会项目后端部分"
     }
   ],
   "projects": {
@@ -44,6 +50,13 @@
         "name": "项目主页生成器（本页面的生成工具）",
         "description": " 根据config.json一键式生成包含组织简介、公告、例会安排、项目列表的单个网页，并自动部署到github pages上",
         "link": "https://github.com/TIC-DLUT/project-list"
+      }
+    ],
+    "参赛能力sdk": [
+      {
+        "name": "vivo aigc应用创新大赛",
+        "description": "Golang版本，支持至2025年",
+        "link": "https://github.com/dingdinglz/vivo"
       }
     ]
   }
